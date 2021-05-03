@@ -4,6 +4,17 @@ ASP.NET Core Web API with multiple versions in a single app
 
 ---
 
+Run:
+```
+dotnet run
+```
+
+Open URL:
+- http://localhost:5000/swagger/
+- https://localhost:5001/swagger/
+
+---
+
 IDE
 - VS Code
 
