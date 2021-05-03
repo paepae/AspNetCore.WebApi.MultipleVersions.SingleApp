@@ -6,6 +6,7 @@ ASP.NET Core Web API with multiple versions in a single app
 
 Run:
 ```
+cd PaePae.Test.AspNetCore.WebApi.MultipleVersions.SingleApp
 dotnet run
 ```
 
